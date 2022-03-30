@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sandbox2" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="tga.tools.ssm_scaner.SsmKt" />
+    <module name="ssm-scaner" />
+    <shortenClasspath name="NONE" />
+    <option name="VM_PARAMETERS" value="-Dssm=&quot;/sandbox2/&quot; -Dfilter=&quot;credit-service&quot; -Daws.profile=savvy-sandbox2 -Daws.region=us-west-2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
